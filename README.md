@@ -1,33 +1,52 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00CEC9&height=200&section=header&text=Fadla%20Roukaia&fontSize=50&fontColor=ffffff&desc=Full-Stack%20%2B%20Mobile%20Dev%20%7C%20UI%2FUX%20%2B%20Graphic%20Design%20%7C%20IoT%20%2B%20AI&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,100:FF5DA2&height=200&section=header&text=Fadla%20Roukaia&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
-### 👋 Hi, I'm Fadla
 
-Full-stack & mobile developer at **ESI SBA**, working across web, mobile, and embedded systems. I also design — from UI/UX to graphic design — so I build products end-to-end, from the interface down to the hardware.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=800&color=FF5DA2&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Mobile+Developer;UI%2FUX+%2B+Graphic+Designer;IoT+%E2%80%94+Raspberry+Pi+%2B+Arduino+%2B+ESP32;Learning+AI+%2F+Machine+Learning" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roukaiafadla&color=ff5da2&style=flat" />
+</p>
 
 ---
 
 ### 🩷 About Me
-- 🎓 Computer Science student at ESI SBA
-- 💻 Full-stack web development & mobile apps (Flutter)
+
+- 🎓 Computer Science student at **ESI SBA**
+- 💻 Full-stack web development & mobile apps (**Flutter**)
 - 🎨 UI/UX & graphic design — portfolio on [Behance](https://www.behance.net/fadlarekia)
 - 🔧 IoT development — Raspberry Pi, Arduino, ESP32, sensors & actuators (see `smart-parking`)
-- 📚 Building toward AI/ML — currently strengthening my foundations
-- 🔭 Next: combining IoT hardware with applied AI
+- 📚 Building toward AI/ML — strengthening my foundations right now
+- 🔭 Next up: combining IoT hardware with applied AI
 
 ---
 
 ### 🛠️ Tech Stack
-![](https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,flutter,figma,arduino,raspberrypi)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,flutter,figma,arduino,raspberrypi,git" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=roukaiafadla&theme=tokyonight&hide_border=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=roukaiafadla&theme=tokyonight&hide_border=true)
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=roukaiafadla&hide_border=true&show_icons=true&title_color=FF5DA2&icon_color=FF5DA2&text_color=555555&bg_color=00000000" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=roukaiafadla&hide_border=true&background=00000000&ring=FF5DA2&fire=FF5DA2&currStreakLabel=FF5DA2" />
+</p>
 
 ---
 
 ### 💌 Let's Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roukafor@gmail.com)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/fadlarekia)
+
+<p align="left">
+  <a href="mailto:roukafor@gmail.com"><img src="https://img.shields.io/badge/Email-FF5DA2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.behance.net/fadlarekia"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,100:FF5DA2&height=100&section=footer" />
+</p>
