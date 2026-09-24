@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="PASTE_YOUR_WAVING_HAND_TAG_HERE" width="35" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,100:FF5DA2&height=200&section=header&text=Fadla%20Roukaia&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
@@ -26,6 +30,13 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,flutter,figma,ai,ps,arduino,raspberrypi,docker,git" />
+</p>
+
+---
+
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roukaiafadla/roukaiafadla/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
