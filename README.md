@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=800&color=FF5DA2&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Mobile+Developer;UI%2FUX+%2B+Graphic+Designer;IoT+%E2%80%94+Raspberry+Pi+%2B+Arduino+%2B+ESP32;Learning+AI+%2F+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=800&color=FF5DA2&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Mobile+Developer;UI%2FUX+%2B+Graphic+Designer;IoT+%2B+AI;Learning+AI%2FML%2FDL" />
 </p>
 
 <p align="center">
@@ -17,10 +17,9 @@
 - 🎓 Computer Science student at **ESI SBA**
 - 💻 Full-stack web development & mobile apps (**Flutter**)
 - 🎨 UI/UX & graphic design — portfolio on [Behance](https://www.behance.net/fadlarekia)
-- 🔧 IoT development — Raspberry Pi, Arduino, ESP32, sensors & actuators (see `smart-parking`)
-- 📚 Building toward AI/ML — strengthening my foundations right now
-- 🔭 Next up: combining IoT hardware with applied AI
-
+- 🔧 IoT + AI 
+- 📚 Deepening my AI/ML/DL foundations to go further with this combo
+- 🔭 Next up: more IoT × AI projects 
 ---
 
 ### 🛠️ Tech Stack
