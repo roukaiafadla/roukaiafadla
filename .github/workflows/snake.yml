@@ -1,8 +1,12 @@
 name: generate animation
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -12,6 +16,7 @@ jobs:
         with:
           github_user_name: roukaiafadla
           outputs: dist/github-contribution-grid-snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
