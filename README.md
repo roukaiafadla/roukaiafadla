@@ -61,7 +61,7 @@ I am currently seeking a **research internship** in Embedded Systems, Edge AI, o
   <tr>
     <td width="50%" valign="top">
       <h4>🛠️ <a href="https://github.com/roukaiafadla/wassit">Wassit</a></h4>
-      AI-assisted hyperlocal marketplace built with React, Node.js, and MongoDB. Integrated Google Gemini API for AI-assisted job posting and Socket.io for real-time feeds.
+      AI-assisted hyperlocal marketplace built with React, Node.js, and MongoDB. Integrated Google Gemini API for AI-assisted job posting and Socket.io for real-time feeds. <a href="https://wassit-omega.vercel.app/">Live demo</a>
       <br/><br/>
       <sub><b>React · Express · MongoDB · Socket.io · Gemini API</b></sub>
     </td>
@@ -76,7 +76,7 @@ I am currently seeking a **research internship** in Embedded Systems, Edge AI, o
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Embedded & IoT**
 <p align="left">
