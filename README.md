@@ -96,8 +96,8 @@ I am currently seeking a **research internship** in Embedded Systems, Edge AI, o
 ###  GitHub Stats
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=roukaiafadla&hide_border=true&show_icons=true&title_color=1F3A5F&icon_color=C48B80&text_color=555555&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roukaiafadla&layout=compact&hide_border=true&title_color=1F3A5F&text_color=555555&bg_color=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=roukaiafadla&hide_border=true&show_icons=true&title_color=1F3A5F&icon_color=C48B80&text_color=555555&bg_color=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roukaiafadla&layout=compact&hide_border=true&title_color=1F3A5F&text_color=555555&bg_color=00000000" />
 </p>
 
 <p align="center">
